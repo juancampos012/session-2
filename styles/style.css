@@ -1,0 +1,9 @@
+.container{
+    background-color: aqua;
+    padding: 10px;
+    height: 100vh;
+    .content{
+        background-color: white;
+        padding: 10px;
+    }
+}
